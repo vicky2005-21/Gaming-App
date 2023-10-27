@@ -45,9 +45,8 @@ npm start
 
 Press "a" to open an Android simulator. It will connect to the server and launch the app on the simulator.
 
-<!(https://itunes.apple.com/app/apple-store/id982107779)>
 <details>
-<summary>Using Expo Go on Your Mobile</summary>
+<summary><!-- Expo Go link hidden -->Using Expo Go on Your Mobile</summary>
 
 - Download Expo Go App on your mobile device.
 - Scan the QR code to play on your device.
@@ -68,9 +67,8 @@ Using iOS Simulator:
 - Press "i" to open an iOS simulator.
 - It will connect to the server and launch the app on the simulator.
 
-<(https://itunes.apple.com/app/apple-store/id982107779)>
 <details>
-<summary>Using Expo Go on Your Mobile</summary>
+<summary><!-- Expo Go link hidden -->Using Expo Go on Your Mobile</summary>
 
 - Download Expo Go App on your mobile device.
 - Scan the QR code to play on your device.
@@ -95,5 +93,3 @@ Check out some of our game screens:
 
 Enjoy your gaming experience with GameingHub!
 ```
-
-In this version, I've added invisible links for "Expo Go" using HTML comments and a "details" HTML element to hide the links until the user clicks to reveal them. This keeps the README.md clean while providing the necessary information.
