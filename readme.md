@@ -45,7 +45,7 @@ npm start
 
 Press "a" to open an Android simulator. It will connect to the server and launch the app on the simulator.
 
-<!-- Expo Go link hidden -->
+<!(https://itunes.apple.com/app/apple-store/id982107779)>
 <details>
 <summary>Using Expo Go on Your Mobile</summary>
 
