@@ -1,15 +1,15 @@
 markdown
-# GameingHub
+# GamingHub
 
-Welcome to GameingHub, a gaming platform created by Vignesh Chowdary A V.
+Welcome to GamengHub, a gaming platform created by Vignesh Chowdary A V.
 
 ## Installation
 
-Get started with GameingHub on your mobile device by following these simple steps:
+Get started with GamingHub on your mobile device by following these simple steps:
 
 ### 1. Clone the Repository
 
-First, clone the GameingHub repository from our [GitHub Repository](https://github.com/vicky2005-21/Gaming-App.git). Use the following command:
+First, clone the GamingHub repository from our [GitHub Repository](https://github.com/vicky2005-21/Gaming-App.git). Use the following command:
 
 ```bash
 git clone https://github.com/vicky2005-21/Gaming-App.git
@@ -20,7 +20,7 @@ git clone https://github.com/vicky2005-21/Gaming-App.git
 Change your working directory to the GameingHub project folder:
 
 ```bash
-cd GameingHub
+cd Gaming-App
 ```
 
 ### 3. Install Project Dependencies
@@ -31,10 +31,9 @@ Use npm to install the necessary project dependencies:
 npm install
 ```
 
-### 4. Launch GameingHub
+### 4. Launch GamingHub
 
 You can run GameingHub on your mobile device by following one of these options:
-
 #### Option 1: Android Simulator
 
 To open an Android simulator and connect to the server, run:
@@ -82,6 +81,6 @@ Check out some of our game screens:
 
 - **Vignesh Chowdary A V**
 
-Enjoy your gaming experience with GameingHub!
+Enjoy your gaming experience with GamingHub!
 
 
