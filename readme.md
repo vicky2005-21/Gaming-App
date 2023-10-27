@@ -1,5 +1,3 @@
-Certainly! Here's the updated section with the correct link for the iOS Expo Go app:
-
 ```markdown
 # GameingHub
 
@@ -47,12 +45,12 @@ npm start
 
 Press "a" to open an Android simulator. It will connect to the server and launch the app on the simulator.
 
-<details>
-<summary><!-- Expo Go link hidden -->Using Expo Go on Your Mobile</summary>
+
 
 - Download Expo Go App on your mobile device.
 - Scan the QR code to play on your device.
-</details>
+- [Android Expo Go App](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www){:target="_blank"} (Google Play Store Link)
+
 
 #### Option 2: iOS Simulator
 
@@ -70,10 +68,10 @@ Using iOS Simulator:
 - It will connect to the server and launch the app on the simulator.
 
 
+
 - Download Expo Go App on your mobile device.
 - Scan the QR code to play on your device.
-- [iOS Expo Go App](https://itunes.apple.com/app/apple-store/id982107779) (iOS App Store Link)
-
+- [iOS Expo Go App](https://itunes.apple.com/app/apple-store/id982107779){:target="_blank"} (iOS App Store Link)
 
 #### Option 3: Web (Future Development)
 
@@ -83,10 +81,7 @@ Please note that the web option is not yet implemented but will be developed in 
 
 Check out some of our game screens:
 
-![Home Screen](https://github.com/vicky2005-21/Gaming-App/blob/d59931534178149cca554315e18de60f6b69fba9/Home-Screen.png)
-![Screenshot 1](https://github.com/vicky2005-21/Gaming-App/blob/83db473823a6087184eede8cc6b24792a490f03f/Screenshot_1698402313.png)
-![Screenshot 2](https://github.com/vicky2005-21/Gaming-App/blob/5cf788656d671478cb005aad6c22eaf2eb7646c0/result.png)
-![Opening Page](https://github.com/vicky2005-21/Gaming-App/blob/5cf788656d671478cb005aad6c22eaf2eb7646c0/opening%20page.png)
+![Home Screen](https://github.com/vicky2005-21/Gaming-App/blob/d59931534178149cca554315e18de60f6b69fba9/Home-Screen.png) ![Screenshot 1](https://github.com/vicky2005-21/Gaming-App/blob/83db473823a6087184eede8cc6b24792a490f03f/Screenshot_1698402313.png) ![Screenshot 2](https://github.com/vicky2005-21/Gaming-App/blob/5cf788656d671478cb005aad6c22eaf2eb7646c0/result.png) ![Opening Page](https://github.com/vicky2005-21/Gaming-App/blob/5cf788656d671478cb005aad6c22eaf2eb7646c0/opening%20page.png)
 
 ## Author
 
@@ -95,4 +90,3 @@ Check out some of our game screens:
 Enjoy your gaming experience with GameingHub!
 ```
 
-I've updated the link for the iOS Expo Go app to "https://itunes.apple.com/app/apple-store/id982107779" and added it within the "details" element to keep it hidden until the user clicks to reveal it.
