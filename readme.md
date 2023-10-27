@@ -1,4 +1,4 @@
-```markdown
+markdown
 # GameingHub
 
 Welcome to GameingHub, a gaming platform created by Vignesh Chowdary A V.
@@ -45,12 +45,9 @@ npm start
 
 Press "a" to open an Android simulator. It will connect to the server and launch the app on the simulator.
 
-
-
 - Download Expo Go App on your mobile device.
 - Scan the QR code to play on your device.
-- [Android Expo Go App](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www){:target="_blank"} (Google Play Store Link)
-
+- [Android Expo Go App](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) (Google Play Store Link)
 
 #### Option 2: iOS Simulator
 
@@ -67,11 +64,9 @@ Using iOS Simulator:
 - Press "i" to open an iOS simulator.
 - It will connect to the server and launch the app on the simulator.
 
-
-
 - Download Expo Go App on your mobile device.
 - Scan the QR code to play on your device.
-- [iOS Expo Go App](https://itunes.apple.com/app/apple-store/id982107779){:target="_blank"} (iOS App Store Link)
+- [iOS Expo Go App](https://itunes.apple.com/app/apple-store/id982107779) (iOS App Store Link)
 
 #### Option 3: Web (Future Development)
 
@@ -82,9 +77,6 @@ Please note that the web option is not yet implemented but will be developed in 
 Check out some of our game screens:
 
 <img src="https://github.com/vicky2005-21/Gaming-App/blob/d59931534178149cca554315e18de60f6b69fba9/Home-Screen.png" width="200" /> <img src="https://github.com/vicky2005-21/Gaming-App/blob/83db473823a6087184eede8cc6b24792a490f03f/Screenshot_1698402313.png" width="200" /> <img src="https://github.com/vicky2005-21/Gaming-App/blob/5cf788656d671478cb005aad6c22eaf2eb7646c0/result.png" width="200" /> <img src="https://github.com/vicky2005-21/Gaming-App/blob/5cf788656d671478cb005aad6c22eaf2eb7646c0/opening%20page.png" width="200" />
-
-
-
 
 ## Author
 
