@@ -62,11 +62,14 @@ Press "i" to open an iOS simulator, and it will connect to the server and launch
 
 Please note that the web option is not yet implemented but will be developed in the future.
 
-<img src="https://github.com/vicky2005-21/Gaming-App/blob/d59931534178149cca554315e18de60f6b69fba9/Home-Screen.png" width="200" /> <img src="https://github.com/vicky2005-21/Gaming-App/blob/83db473823a6087184eede8cc6b24792a490f03f/Screenshot_1698402313.png" width="200" />
+
+#SCREENSHOTS
+<img src="https://github.com/vicky2005-21/Gaming-App/blob/d59931534178149cca554315e18de60f6b69fba9/Home-Screen.png" width="200" /> <img src="https://github.com/vicky2005-21/Gaming-App/blob/83db473823a6087184eede8cc6b24792a490f03f/Screenshot_1698402313.png" width="200" /> <img src="https://github.com/vicky2005-21/Gaming-App/blob/5cf788656d671478cb005aad6c22eaf2eb7646c0/result.png" width="200" /> <img src="https://github.com/vicky2005-21/Gaming-App/blob/5cf788656d671478cb005aad6c22eaf2eb7646c0/opening%20page.png" width="200" />
 
 
 ## Author
 
 - Vignesh Chowdary A V
+- 
 
 
