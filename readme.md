@@ -68,7 +68,7 @@ Using iOS Simulator:
 - It will connect to the server and launch the app on the simulator.
 
 <details>
-<summary><!-- Expo Go link hidden -->Using Expo Go on Your Mobile</summary>
+<summary><https://itunes.apple.com/app/apple-store/id982107779>Using Expo Go on Your Mobile</summary>
 
 - Download Expo Go App on your mobile device.
 - Scan the QR code to play on your device.
