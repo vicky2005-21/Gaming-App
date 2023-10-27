@@ -1,5 +1,5 @@
 
-```markdown
+markdown
 # GameingHub
 
 Welcome to GameingHub, a gaming platform created by Vignesh Chowdary.
@@ -11,6 +11,8 @@ Follow these steps to get GameingHub up and running on your mobile device.
 ### 1. Clone the Repository
 
 First, clone the GameingHub repository from the [GitHub Repo Link]([https://github.com/your-repo-link-here](https://github.com/vicky2005-21/Gaming-App.git)).
+
+
 
 ```bash
 git clone [https://github.com/your-repo-link-here](https://github.com/vicky2005-21/Gaming-App.git)
