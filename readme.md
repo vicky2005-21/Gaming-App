@@ -62,7 +62,7 @@ Press "i" to open an iOS simulator, and it will connect to the server and launch
 
 Please note that the web option is not yet implemented but will be developed in the future.
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/vicky2005-21/Gaming-App/blob/main/Home-Screen.png)https://github.com/vicky2005-21/Gaming-App/blob/main/Home-Screen.png)
+![alt text](https://github.com/vicky2005-21/Gaming-App/blob/d59931534178149cca554315e18de60f6b69fba9/Home-Screen.png)
 
 ## Author
 
