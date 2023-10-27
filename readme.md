@@ -55,15 +55,24 @@ To open an iOS simulator and connect to the server, run the following command:
 ```bash
 npm start
 ```
+To run the app, you can either:
 
-Press "i" to open an iOS simulator, and it will connect to the server and launch the app on the simulator.
+Using iOS Simulator:
+
+Press "i" to open an iOS simulator.
+It will connect to the server and launch the app on the simulator.
+Using Expo Go on Your Mobile:
+
+Download Expo Go on your mobile device.
+Scan the QR code to play on your device.
 
 #### Option 3: Web (Future Development)
 
 Please note that the web option is not yet implemented but will be developed in the future.
 
 
-#SCREENSHOTS
+
+
 <img src="https://github.com/vicky2005-21/Gaming-App/blob/d59931534178149cca554315e18de60f6b69fba9/Home-Screen.png" width="200" /> <img src="https://github.com/vicky2005-21/Gaming-App/blob/83db473823a6087184eede8cc6b24792a490f03f/Screenshot_1698402313.png" width="200" /> <img src="https://github.com/vicky2005-21/Gaming-App/blob/5cf788656d671478cb005aad6c22eaf2eb7646c0/result.png" width="200" /> <img src="https://github.com/vicky2005-21/Gaming-App/blob/5cf788656d671478cb005aad6c22eaf2eb7646c0/opening%20page.png" width="200" />
 
 
