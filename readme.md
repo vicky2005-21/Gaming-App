@@ -2,7 +2,7 @@
 markdown
 # GameingHub
 
-Welcome to GameingHub, a gaming platform created by Vignesh Chowdary.
+Welcome to GameingHub, a gaming platform created by Vignesh Chowdary A V.
 
 ## Installation
 
@@ -64,6 +64,6 @@ Please note that the web option is not yet implemented but will be developed in 
 
 ## Author
 
-- Vignesh Chowdary
+- Vignesh Chowdary A V
 
 
