@@ -1,0 +1,4 @@
+{
+  "exclude": ["lib/**/*"],
+  "extends": "expo/tsconfig.base"
+}

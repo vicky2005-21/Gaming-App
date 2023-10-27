@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Cerebrus",
+    "slug": "Cerebrus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/xl-space-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.creaitors.cerebrus"
+    },
+    "android": {
+      "package": "com.creaitors.cerebrus",
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/space-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "enableProguardInReleaseBuilds": true
+          }
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7c8bba6a-afef-4b0c-81c2-93d57e2e9a0a"
+      }
+    }
+  }
+}
