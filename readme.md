@@ -10,10 +10,10 @@ Follow these steps to get GameingHub up and running on your mobile device.
 
 ### 1. Clone the Repository
 
-First, clone the GameingHub repository from the [GitHub Repo Link](https://github.com/your-repo-link-here).
+First, clone the GameingHub repository from the [GitHub Repo Link]([https://github.com/your-repo-link-here](https://github.com/vicky2005-21/Gaming-App.git)).
 
 ```bash
-git clone https://github.com/your-repo-link-here
+git clone [https://github.com/your-repo-link-here](https://github.com/vicky2005-21/Gaming-App.git)
 ```
 
 ### 2. Navigate to the Project Directory
@@ -64,10 +64,4 @@ Please note that the web option is not yet implemented but will be developed in 
 
 - Vignesh Chowdary
 
-## License
 
-This project is licensed under the [License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-```
-
-This well-structured README.md file provides clear instructions for users to clone the repository, install dependencies, and launch GameingHub on their mobile devices. It also includes information about the author and mentions future development plans.
